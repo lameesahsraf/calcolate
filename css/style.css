@@ -1,0 +1,35 @@
+.container {
+  width: 227px;
+  padding-top: 9%;
+}
+.col {
+  height: 3em;
+  background-color: rgb(143, 132, 132);
+  color: rgb(247, 247, 247);
+  border: 1px solid rgb(172, 155, 155);
+}
+.calca {
+  background-color: rgb(119, 116, 122);
+}
+.cl {
+  background-color: rgb(236, 13, 13);
+}
+.del {
+  background-color: rgb(255, 123, 29);
+}
+button.col:hover {
+  background-color: #837777;
+}
+input.input {
+  padding: 0.5em 1em;
+  outline: 0;
+  border: 2px solid #9b9090;
+}
+.equal {
+  background-color: rgb(95, 91, 91);
+  border: 1px solid rgb(95, 91, 91);
+  color: rgb(247, 247, 247);
+}
+.equal:hover {
+  background-color: rgb(112, 109, 109);
+}
